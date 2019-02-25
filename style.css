@@ -1,0 +1,16 @@
+li{
+    background-color:red;
+}
+h1{color: blue;
+}
+body{
+    background-color: #29bce5;
+    font-family: fantasy;
+}
+
+li{
+    text-transform: uppercase;
+}
+    navbutton:hover{
+        background-color:purple;
+    }
